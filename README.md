@@ -1,2 +1,2 @@
 # computing2022
-This repository is for the gnsc3301 computing II class at Oklahoma Baptist University.
+This repository was created for the GNSC 3301 computing II class at Oklahoma Baptist University.
